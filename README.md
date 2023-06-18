@@ -1,4 +1,4 @@
-# ViGo
+# Planta
 
 ## About Me
 
